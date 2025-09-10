@@ -14,3 +14,5 @@ A full-stack notes application built with the **MERN stack (MongoDB, Express.js,
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB 
 - **Deployment:** Render
+
+[Visit here](https://mern-noteboard-ag2f.onrender.com) (the website may take a minute to load due to being deployed on Render)
